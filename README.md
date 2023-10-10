@@ -3,8 +3,7 @@ I noticed that there isn't any prefab online for the kind of hologram map used i
 
 # Prerequisites
 
--Text Mesh Pro
-That's it!
+-Nothing, it should have everything from the get-go! (TechMeshPro is in the folder, idk what will happen if you already have it installed.)
 
 # Instalation
 -Drag and Drop, Move the _"Holomap"_ prefab where you need it.
