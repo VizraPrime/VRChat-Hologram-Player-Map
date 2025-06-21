@@ -11,6 +11,8 @@ TextMeshPro, that should be it.
 
 -Customize the layout by scaling up _"Holomap-Interior-Rooms"_ to **1**, delete/match up squares/cubes to match the layout of your world, then scale the prefab root down to whatever size you need. Rotations should be automatic.
 
+-You can Edit the font or Size of the text as you wish.
+
 # Variables
 -UpdateRate: Change how fast the locations are updated in Frames. Higher numbers are slower.
 
