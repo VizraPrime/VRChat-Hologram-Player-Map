@@ -29,6 +29,3 @@ TextMeshPro
 
 -ResetLocation: This will be the position where objects return to when not in use. It will be scaled down along with the prefab so you may need to use numbers in the 100's
 
-
-
-I hope it helps people make some cool meals!
