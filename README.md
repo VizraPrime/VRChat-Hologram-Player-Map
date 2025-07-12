@@ -2,9 +2,12 @@
 I noticed that there isn't any prefab online for the kind of hologram map used in a lot of game worlds. So I wanted to help people out and make this public!
 
 # Features
--Shows player position
--Shows player usernames
+-Shows player position.
+
+-Shows player usernames.
+
 -Allows clicking on player icons to teleport to them.
+
 -Late join compatible with minimal networking, (Doesn't use ownership.)
 
 # Prerequisites
